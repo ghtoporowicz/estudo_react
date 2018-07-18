@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "npm": "^6.0.0"
+    "npm": "^6.1.0"
   },
   "devDependencies": {
     "body-parser": "^1.15.2",
